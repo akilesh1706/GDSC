@@ -1,0 +1,26 @@
+h1{
+    color: red;
+    font-size: 50px;
+    padding: 10px;
+}
+body{
+    background-color: rgb(178, 154, 241);
+    font-family: 'Courier New', Courier, monospace ;
+}
+.landing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.takeoff p{
+    color: #48ee3f;
+}
+
+.about{
+    margin-left: auto;
+}
+.mine{
+    align-items: center;
+    justify-content: center;
+}
